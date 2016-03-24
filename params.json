@@ -1,6 +1,6 @@
 {
   "name": "2D-3D Technologies",
   "tagline": "A blog for showing my experience in OpenCV, Computer Vision, Machine Learning",
-  "body": "I have more than 6 years of experience working on computer vision and image processing projects. Since last 3 years I am working with OpenCV library and I have worked on number of projects like object detection, object tracking, image matching, 3D scene reconstruction from multiple images, camera calibration, OCR, text detection, car number plate recognition etc.\r\n\r\nThis blog contains more comprehensive overview of the projects I have worked on.",
+  "body": "I have done a B.Tech. (Civil Engg.) and M.Tech. (Geoinformatics) from Indian Institute of Technology Kanpur\r\n\r\nI have more than 6 years of experience working on computer vision and image processing projects. Since last 3 years I am working with OpenCV library and I have worked on number of projects like object detection, object tracking, image matching, 3D scene reconstruction from multiple images, camera calibration, OCR, text detection, car number plate recognition etc.\r\n\r\nThis blog contains more comprehensive overview of the projects I have worked on.\r\n\r\nMy key projects consists of the following:\r\n\r\n[Human Gesture Recognition using MS Kinect](http://abggcv.github.io/humanGestureRecognitionWithMSKinect/)\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
